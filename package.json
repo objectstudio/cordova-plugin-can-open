@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "name": "cordova-plugin-can-open",
+    "cordova": {
+        "id": "cordova-plugin-can-open",
+        "platforms": [
+            "ios"
+        ]
+    },
+    "cordova_name": "Can Open",
+    "description": "This plugin allows you to determine if a schema can be launched.",
+    "license": "MIT",
+    "platforms": [
+        "ios"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ]
+}
